@@ -12,3 +12,19 @@
 
     ;
 }
+.button-col{
+    color: #00B207;
+}
+.big-pic{
+    background-image: url(./images/eco-bazzare-pic1.jpg);
+}
+.small-pic-1{
+    background-image: url(./images/BG.png);
+}
+.small-pic-2{
+    background-image: url(./images/eco-bazard\ pic3.png);
+}
+.bg-orange{
+    background-color: #FF8A00;
+    ;
+}
