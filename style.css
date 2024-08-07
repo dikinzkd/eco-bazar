@@ -10,10 +10,10 @@
     background-color: #333333;
     color: #999999;
 
-    ;
 }
 .button-col{
     color: #00B207;
+    ;
 }
 .big-pic{
     background-image: url(./images/eco-bazzare-pic1.jpg);
@@ -28,3 +28,14 @@
     background-color: #FF8A00;
     ;
 }
+.w-15{
+    width: 15%;
+}
+
+
+@media screen and (max-width: 768px){
+.w-15{
+     width: 30%;
+}
+}
+
