@@ -34,7 +34,10 @@
 .w-15{
     width: 15%;
 }
-
+.text-yellow{
+    color: rgb(255, 208, 0);
+    background-color: black;
+}
 
 @media screen and (max-width: 768px){
 .w-15{
