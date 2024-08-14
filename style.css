@@ -38,6 +38,30 @@
     color: rgb(255, 208, 0);
     background-color: black;
 }
+.ig-1{
+    background-image: url(./images/ig-pic1.png);
+    height: 160px;
+}
+.ig-2{
+    background-image: url(./images/ig-pic2.png);
+    height: 160px;
+}
+.ig-3{
+    background-image: url(./images/ig-pic3.png);
+    height: 160px;
+}
+.ig-4{
+    background-image: url(./images/ig-pic4.png);
+    height: 160px;
+}
+.ig-5{
+    background-image: url(./images/ig-pic5.png);
+    height: 160px;
+}
+.ig-6{
+    background-image: url(./images/ig-pic6.png);
+    height: 160px;
+}
 
 @media screen and (max-width: 768px){
 .w-15{
