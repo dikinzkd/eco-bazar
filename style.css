@@ -67,6 +67,12 @@
 .w-15{
      width: 30%;
 }
+.contact-main-header{
+   display: none;
+}
+.contact-map{
+    display: none;
+}
 }
 .h-100{
     height: 450px;
@@ -87,4 +93,13 @@
 }
 .texts3{
     margin-left: 110px;
+}
+.contact-main-header{
+    background-image: url(./images/Breadcrumbs.png);
+    height: 100px;
+    background-repeat: no-repeat;
+}
+.contact-map{
+    background-image: url(./images/Map\ Image.png);
+    height: 300px;
 }
