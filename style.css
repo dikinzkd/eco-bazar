@@ -62,12 +62,15 @@
     background-image: url(./images/ig-pic6.png);
     height: 160px;
 }
+.blog-gallery{
+    height: -120px;
+}
 
 @media screen and (max-width: 768px){
 .w-15{
      width: 30%;
 }
-.contact-main-header{
+.contact-main-header,.blog-main-header{
    display: none;
 }
 .contact-map{
@@ -102,4 +105,9 @@
 .contact-map{
     background-image: url(./images/Map\ Image.png);
     height: 300px;
+}
+.blog-main-header{
+    background-image: url(./images/Breadcrumbs-1.png);
+    height: 100px;
+    background-repeat: no-repeat;
 }
