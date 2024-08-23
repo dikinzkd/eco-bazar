@@ -94,6 +94,10 @@
     background-image: url(./images/i-did-it.jpeg);
     height: 300px;
 }
+.single-blog-discount {
+    background-image: url(./images/single-4.png);
+    height: 200px;
+}
 .texts3{
     margin-left: 110px;
 }
